@@ -9,7 +9,7 @@ description: Manage your local data with Apollo Client
 [**apollo-link-state on GitHub**](https://github.com/apollographql/apollo-link-state)
 
 
-> ⚠️ As of Apollo Client 2.5, local state handling is baked into the core, which means it is no longer necessary to use `apollo-link-state`. For help with migrating from `apollo-link-state` to Apollo Client 2.5, please refer to the [migration guide](https://www.apollographql.com/docs/react/essentials/local-state/#migrating-from-apollo-link-state).
+> ⚠️ As of Apollo Client 2.5, local state handling is baked into the core, which means it is no longer necessary to use `apollo-link-state`. For help with migrating from `apollo-link-state` to Apollo Client 2.5, please refer to the [migration guide (it is on angular page but migration process is the same)](https://www.apollographql.com/docs/angular/basics/local-state/#migrating-from-apollo-link-state).
 
 Managing remote data from an external API is simple with Apollo Client, but
 where do we put all of our data that doesn't fit in that category? Nearly all
